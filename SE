@@ -1,0 +1,35 @@
+exiperiment 6     E-ticketing
+problem statement
+
+System
+our project is carried out to thelop southware for online Railway Raxovation System This system has sonous optione lite reservation cancellation and to vew details about available souls our project mainly simulates the role of a Railway tillict booking officer in a computerized way
+USE CASE DIAGRAM
+The online ticket reservation Systen uses the
+following we calet
+1. Request for seat availability.
+2 make Reservation.
+3. Cancellation
+4 Check Statul
+5. print ticket
+Actors involved
+1. System
+2 passenger
+
+
+ACTIVITY DIAGRAM:
+The activity diagram desisches the behaviour of the lysten
+•Fast Shake is login where the passenger login to the E-Ticketing System
+•The next stake is filling details the passenger are wied to fill the form.
+Then passenger led to seleching the flight
+
+
+CLASS DIAGRAM:
+
+
+The class dengan also rettered to as subject marbling in the move Blatic analysis diperm. The problem domain deinkes the structure and the wlationships among clyuch
+The online ticket revenation System mates wie of the following
+
+1. ticket reservation
+2. train Info
+3. parssenger Info
+4. Seat Avail status
